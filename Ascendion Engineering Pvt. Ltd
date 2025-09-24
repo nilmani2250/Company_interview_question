@@ -1,0 +1,20 @@
+What is the difference between a static and a global variable?
+What is polymorphism in C++?
+What happens in compile-time polymorphism and what happens in runtime polymorphism?
+ What is function overloading and what is function overriding?
+Write and share a sample program demonstrating runtime polymorphism (function overriding) in C++.
+What is 'std' and 'endl' in C++? Why do we use the double colon (::)? What is a namespace?
+In this code, where is the namespace? What is a namespace in this context?
+Why do we define namespaces? Can you create your own namespace?
+Why did you remove 'std' in your code?
+The code should demonstrate overriding. Can you run it and explain how it works?
+Can you elaborate on runtime polymorphism in your code? Where is runtime polymorphism happening?
+What makes runtime polymorphism different? What extra is happening that makes it runtime polymorphism?
+ Why is your output not working as expected? Why is the sound function not working?
+Why does the base class pointer call the derived class function? Can you elaborate from a memory perspective?
+ What does the 'virtual' keyword do?
+What are the two things the compiler does when you use the 'virtual' keyword in a class?
+What is a pointer to the class?
+What is the significance of a pointer to the class in the context of the virtual keyword?
+ Where does the virtual pointer (vptr) get inserted by the compiler?
+Where is the vptr created, and how many vptrs and vtables are there?
