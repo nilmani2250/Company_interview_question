@@ -1,0 +1,12 @@
+Explain abstraction, inheritance, and polymorphism in C++
+What change is needed in the code to print the derived class's show function instead of the base class's?
+Where should the 'virtual' keyword be used in the code?
+ If a function is defined in the private section of the derived class, will it create any issue?
+ What is a unique pointer in C++?
+What is the purpose of using a unique pointer?
+ What is a shared pointer in C++?
+Have you used any STL (Standard Template Library) libraries?
+What is the difference between vector and list in C++ STL?
+What is the difference between map and set in C++ STL?
+Write a program to print the frequency of each character in a given string using maps
+Given two vectors, write a program to merge them and remove common elements, so the result contains only unique elements from both vectors.
