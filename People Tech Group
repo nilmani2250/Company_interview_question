@@ -1,0 +1,38 @@
+Can you describe your previous experience, your project, and your contributions?
+Can you explain what BSP bring up is?
+What is a UCI configuration?
+Where and how do you use JSON RPC APIs in your project? How is JSON integrated?
+What communication protocols are used in your project? Are you using TCP or others for JSON communication?
+What is the I2C protocol?
+Can you explain what an operating system is?
+What operating system are you using for your project?
+ How do you test the applications you implement? Can you describe the development and testing flow in your company/project?
+Can you explain what a compiler is?
+What are the stages of a compiler?
+ Can you explain any new concepts introduced in C++23?
+Can you explain what a pointer is?
+Where have you used pointers in your project? Can you give a real-time example?
+Can you give an example of pointer usage?
+What are the types of pointers in C++?
+What is a dangling pointer?
+Can you explain smart pointers?
+What is a memory leak?
+How do you overcome memory leaks in C++?
+What are the types of smart pointers in C++?
+Why do we use unique_ptr and shared_ptr? What is the difference between them?
+ Can you explain what a function is?
+What are the types of functions we have?
+What is an inline function?
+What is a virtual function?
+Can you give an example regarding virtual function? How do we use a virtual function?
+What are the storage classes we have?
+ What is an auto keyword?
+If we declare two char variables and assign them integer values, then declare an auto variable as the sum of the two, what is the output and type of the third variable?
+What is a mutable storage class specifier?
+Can you explain the abstraction concept with a live example? How do you achieve abstraction in your project?
+What are the access modifiers we have?
+Can you explain what is a make file?
+ What are the types of make files we have?
+Can you explain what is the preprocessor?
+ What is a macro?
+
