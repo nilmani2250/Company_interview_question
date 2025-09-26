@@ -1,0 +1,29 @@
+ Which MediaTek SoC did you work on?
+Which Qualcomm Wi-Fi device have you worked with?
+Can you explain how a router works?
+For a Wi-Fi router, is the input wired and output wireless, or are both wireless?
+What was the bandwidth throughput (input and output) for your router, and how many devices could it handle?
+What is the scope of a variable?
+What do you mean by a bitwise operator in C?
+How does a bitwise operator work?
+What does the double ampersand (&&) mean?
+Have you ever used a watchdog timer? What is the objective of a watchdog timer?
+Are you aware of DMA (Direct Memory Access)?
+What is the difference between dynamic memory allocation and direct memory allocation?
+Do you know the difference between a microcontroller and a processor?
+How is a program executed in a microcontroller versus a microprocessor-based system?
+How does a program get executed on a Linux laptop (microprocessor-based system)?
+ Describe how you would write, compile, and execute a simple 'hello' program on a microprocessor or Linux machine.
+What is the linker process? Are you aware of what a linker does?
+What are the key differences between C and C++?
+Can you give examples of how you used C and C++ in your project?
+ What is inheritance in C++?
+ What do you use Wireshark for? What kind of data traffic do you monitor?
+Can you give an example of thread-based and process-based architectures?
+ Have you ever worked on Bluetooth or WiFi?
+What kind of application processing have you done on WiFi?
+What did you do for WiFi testing?
+Do you have any idea how memory management works in Linux?
+What are the features of C?
+What are the data types in C?
+
