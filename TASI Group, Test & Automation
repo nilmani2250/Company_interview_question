@@ -1,0 +1,16 @@
+Which specific Board Support Packages (BSPs) have you worked on and contributed to?
+Which peripherals have you written driver-level or low-level code for, and what was your involvement in board bring-up?
+Can you explain the difference between I2C and SPI communication protocols?
+Why is I2C communication slower compared to SPI?
+What is SPI?
+If a hardware designer has only three SPI lines available instead of four, and wants to interface with one slave, is it possible? If so, which line would you compromise?
+Can you explain the difference between TCP/IP and UDP protocols, especially in the context of Ethernet communication?
+Given an embedded device communicating over Ethernet with a web server, which protocol (TCP or UDP) would you use for live sensor data updates and which for configuration, and why?
+In your router or device project, was the MAC (Media Access Controller) inbuilt in the microcontroller or external, and what was the interface between the microcontroller and the MAC?
+When working on Ethernet, were the MAC and PHY internal or external, and what was the interface between them?
+What was the interface between the internal and external components you mentioned (specifically, the MAC)?
+Can you explain the function of interrupts?
+Have you worked on static variables? Can you explain what static variables are?
+Can a static variable declared in one file be accessed from another file? Can I use extern static in another file?
+ If I want to use a static variable in another file, can I do that?
+If I want to access the data of a static variable from another file, is there any way to do that?
