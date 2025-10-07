@@ -1,0 +1,30 @@
+What do you know about QNX?
+What part of kernel development did you work on in your professional experience?
+What is the command to compile the Linux kernel?
+Did you flash the kernel onto the target device? Can you explain the procedure?
+What is the difference between a bootloader and a kernel?
+Can you explain the tasks you performed in your wired router projects?
+What did you do during basic Wi-Fi validation and testing? What validation points did you verify?
+What type of test cases did you use for Wi-Fi validation? Did you use any scripts, and if so, which programming languages were they written in?
+Do you have experience with operating systems?
+Can you write a program to create a two-dimensional array?
+Can you use dynamic memory allocation to create a two-dimensional array instead of using static allocation?
+What is a memory leak?
+What is a pointer and what is a dangling pointer?
+Write a program set bit and clear bit.
+ What is multithreading?
+What is a local variable in C?
+What is the stack in C programming?
+What does the volatile keyword mean in C?
+Do you have an example of a device driver program in C?
+What is an API?
+What are OOPs (Object-Oriented Programming) concepts in C++?
+ What is a virtual function in C++?
+What is polymorphism in C++?
+Write a C program to insert a node in a linked list.
+Write a C program to find the unique number in an array where all other numbers are duplicated.
+Can you give an example of how to use a virtual function in C++?
+What are the storage classes in C++?
+What is a mutable storage class specifier
+
+
