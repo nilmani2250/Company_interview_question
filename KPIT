@@ -1,0 +1,36 @@
+ Explain the different storage classes in C.
+What is the initial value of an uninitialized static variable in C?
+What is the difference between #define and const in C, and when should each be used?
+What is the difference between volatile and const in C?
+What debugging tools have you used in your projects?
+In your project, have you used the volatile keyword? Can you explain a scenario where you used it?
+Which devices have you used in your work?
+Which operating systems have you used in your projects?
+Can you explain what a semaphore is?
+What happens inside a semaphore when switching between threads? How does a semaphore work in this context?
+What is the difference between semaphore operations with and without atomicity? Why is atomicity required?
+What is baud rate in UART, and how is it configured?
+How do you debug data corruption errors in UART communication?
+Are there any options within the UART protocol itself to check data integrity?
+What are the different wires in SPI communication, and how is SPI configured?
+ How do you connect and configure one SPI master to communicate with multiple slave devices?
+What are the different modes available in SPI?
+If data sent over an SPI interface is not received by the other device, what steps would you take to debug and resolve the issue?
+Can you explain SPI modes, specifically clock polarity (CPOL) and clock phase (CPHA)?
+In I2C, how do multiple masters connect to a single slave?
+Can you explain how arbitration works in I2C when multiple masters try to communicate?
+Can you explain the structure of a CAN frame?
+Do you have any idea about clock stretching in I2C?
+Write logic to swap two numbers without using a temporary variable.
+Can you swap two numbers using pointers
+Write a simple logic to copy a string from source to destination using pointers
+What is the output and logic of the following C code using pointers?
+      int a = 10;
+      int *p = &a;
+      int **q = &p;
+      printf("%d %d, %d", a, *p, **q);
+
+Write C logic to swap the nibbles in each byte of a 32-bit integer.
+Do you know about constant, pointer to constant, and function pointer in C?
+
+
