@@ -1,0 +1,34 @@
+ First Technical Round
+
+Did you change any pin configuration in the kernel during BSP customization?
+Do you add your driver to the kernel?
+How do you change Kconfig and add your modifications to the main kernel configuration?
+What communication methods do you use between user space and kernel space to send data?
+Do you know about the concept of VLAN?
+How do you create two threads in Linux and send data (integer, character, or string) from one thread to another?
+How do you swap two integers using pointers in C?
+How do you replace all zeros with ones in an integer value (e.g., 102030 becomes 112131) in C?
+Have you worked with TCP/IP?
+Have you worked with Bash scripts?
+Are you familiar with Linux commands?
+Are you familiar with general tools like Git for cloning repositories?
+ Which tools have you used for managing system requirements and updating test results?
+
+Manager Rounds
+
+How many cores were in the microprocessor you worked with?
+Which core did you work on in the multi-core microprocessor?
+Are you working on bootloader, Linux kernel, and board bring-up activities?
+What tasks do you perform during board bring-up, especially for communication channels?
+When debugging a software issue (like an interface not working), where do you start checking in the software?
+When the main function starts in an embedded program, what are the different function calls and activities that happen during board bring-up?
+What is the main difference between C and C++?
+Can you write a simple C macro to set a bit?
+Can you define a structure in C with basic data types?
+Can you define a union in C with the same basic data types as the structure?
+ What is the difference in size between a structure and a union with the same members?
+Do you know about function pointers, where are they used, and what is their purpose?
+Have you heard about the volatile keyword?
+
+
+
