@@ -1,0 +1,25 @@
+What are your short-term and long-term goals?
+What is BSP and why does it play an important role?
+Have you done any new board bring-up? How do you start the process?
+What are the different kernel log levels in a Linux system?
+How is the final executable generated from a C program?
+What is the difference between a macro and a function in C?
+What is an enum in C?
+When should you use a macro and when should you use an enum in C?
+What does pass by value mean in functions?
+Write a function prototype that takes two integer arguments and one float.
+Write a function prototype for a function that adds two integers and returns the result as a float.
+Write a function prototype and implementation for matrix multiplication of two matrices in C.
+How can you handle dynamic matrix sizes in C for matrix multiplication?
+ What kind of work have you done on QNX, and what did it involve?
+What do you mean by debugging?
+What do you mean by physical address in this context?
+What is the difference between I2C and SPI interfaces?
+How does I2C support multi-master and multi-slave communication?
+What are the different inter-process communication (IPC) methods available in QNX?
+What are the different scheduling policies available in an RTOS?
+Write a C program to take a string from the user and check whether it is a palindrome
+
+
+
+
